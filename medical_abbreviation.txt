@@ -1,0 +1,792 @@
+## Medical Abbreviations from A to Z
+
+ALL: Acute lymphoblastic leukemia.
+AMI: Acute myocardial infarction (heart attack)
+B-ALL: B-cell acute lymphoblastic leukemia
+FSH: Follicle-stimulating hormone. A blood test for follicle-stimulating hormone is used to evaluate fertility in women.
+HAPE: High altitude pulmonary edema
+HPS: Hantavirus pulmonary syndrome. A type of contagious, infectious disease is transmitted by rats infected with the virus.
+IBS: Irritable bowel syndrome (A medical disease that involves the gastrointestinal tract.)
+IDDM: Insulin-dependent diabetes mellitus. Type 1 diabetes.
+MDS: Myelodysplastic syndrome
+NBCCS: Nevoid basal cell carcinoma syndrome
+PE: Pulmonary embolism. A type of blood clot in the lungs.
+SIDS: Sudden infant death syndrome
+TSH: Thyroid-stimulating hormone. A blood test for TSH is used to diagnose thyroid disease.
+
+a.c.: Before meals. As in taking medicine before meals.
+a/g ratio: Albumin to globulin ratio.
+ACL: Anterior cruciate ligament. ACL injuries are one of the most common ligament injuries to the knee. The ACL can be sprained or completely torn from trauma and/or degeneration.
+Ad lib: At liberty. For example, a patient may be permitted to move out of bed freely and orders would, therefore, be for activities to be ad lib.
+AFR: Acute renal failure
+ADHD: Attention deficit hyperactivity disorder
+ADR: Adverse drug reaction. If a patient is taking a prescription drug to treat high blood pressure disease
+AIDS: Acquired immune deficiency syndrome
+AKA: Above the knee amputation.
+Anuric: Not producing urine. A person who is anuric is often critical and may require dialysis.
+ANED: Alive no evidence of disease. The patient arrived in the ER alive with no evidence of disease.
+ADH: Antidiuretic hormone
+ARDS: Acute respiratory distress syndrome.
+ARF: Acute renal (kidney) failure
+ASCVD: Atherosclerotic cardiovascular disease. A form of heart disease.
+
+b.i.d.: Twice daily. As in taking medicine twice daily.
+bld: Blood. Blood was visible on the patient’s scalp.
+Bandemia: Slang for an elevated level of band forms of white blood cells.
+Bibasilar: At the bases of both lungs. For example, someone with pneumonia in both lungs might have abnormal bibasilar breath sounds.
+BKA: Below the knee amputation.
+BMP: Basic metabolic panel. Electrolytes (potassium, sodium, carbon dioxide, and chloride) and creatinine and glucose.
+BP: Blood pressure. Blood pressure is recorded as part of the physical examination. It is one of the "vital signs."
+BPD: Borderline personality disorder. A personality disorder.
+BSO: Bilateral salpingo-oophorectomy. A BSO is the removal of both of the ovaries and adjacent Fallopian tubes and often is performed as part of a total abdominal hysterectomy.
+
+C&S: Culture and sensitivity, performed to detect infection.
+C/O: Complaint of. The patient's expressed concern.
+cap: Capsule.
+Ca: Cancer; carcinoma. For example, a patient who underwent treatment for cancer should assure that they are eating and drinking enough fluids daily, both during and after treatment.
+CABG. Coronary artery bypass graft. A surgery involving the heart.
+CBC: Complete blood count.
+CC: Chief complaint. The patient's main concern.
+CDE: Complete dental (oral) evaluation.
+cc: Cubic centimeters. For example, the amount of fluid removed from the body is recorded in ccs.
+Chem panel: Chemistry panel. A comprehensive screening blood test that indicates the status of the liver, kidneys, and electrolytes.
+CPAP: Continuous positive airway pressure. Treatment for sleep apnea.
+COPD: Chronic obstructive pulmonary disease.
+CT: Chemotherapy. A type of treatment therapy for cancer.
+CVA: Cerebrovascular accident (Stroke).
+
+D/C or DC: Discontinue or discharge. For example, a doctor will D/C a drug. Alternatively, the doctor might DC a patient from the hospital.
+DCIS: Ductal Carcinoma In Situ. A type of breast cancer. The patient is receiving treatment for Ductal Carcinoma In Situ.
+DDX: Differential diagnosis. A variety of diagnostic possibilities are being considered to diagnose the type of cancer present in the patient.
+DJD: Degenerative joint disease. Another term for osteoarthritis.
+DM: Diabetes mellitus.
+DNC, D&C, or D and C: Dilation and curettage. Widening the cervix and scrapping with a curette for the purpose of removing tissue lining the inner surface of the womb (uterus).
+DNR: Do not resuscitate. This is a specific order not to revive a patient artificially if they succumb to illness. If a patient is given a DNR order, they are not resuscitated if they are near death and no code blue is called.
+DOE: Dyspnea on exertion. Shortness of breath with activity.
+DTR: Deep tendon reflexes. These are reflexes that the doctor tests by banging on the tendons with a rubber hammer.
+DVT: Deep venous thrombosis (blood clot in a large vein).
+
+ETOH: Alcohol. ETOH intake history is often recorded as part of patient history.
+ECT: Electroconclusive therapy. A procedure used to control seizures (convulsions).
+
+FX: Fracture.
+
+G - Medical abbreviations
+g: gram, a unit of weight. The cream is available in both 30 and 60-gram tubes.
+GOMER: Slang for "get out of my emergency room."
+GvHD: Graft vs. host disease. It is complicated by the syndromes of acute and chronic graft-vs-host disease (GVHD).
+gtt: Drops.
+
+H&H: Hemoglobin and hematocrit. When the H & H is low, anemia is present. The H&H can be elevated in persons who have lung disease from long term smoking or from disease, such as polycythemia rubra vera.
+H&P: History and physical examination.
+h.s.: At bedtime. As in taking medicine at bedtime.
+H/O or h/o: History of. A past event that occurred.
+HA: Headache.
+HRT: Hormone replacement or hormone replacement therapy.
+HTN: Hypertension.
+
+I&D: Incision and drainage.
+IBD: Inflammatory bowel disease. A name for two disorders of the gastrointestinal (BI) tract, Crohn’s disease and ulcerative colitis
+ICD: Implantable cardioverter defibrillator
+ICU: Intensive care unit. The patient was moved to the intensive care unit.
+IM: Intramuscular. This is a typical notation when noting or ordering an injection (shot) given into a muscle, such as with B12 for pernicious anemia.
+IMP: Impression. This is the summary conclusion of the patient's condition by the healthcare professional at that particular date and time.
+ITU: Intensive therapy unit
+in vitro: In the laboratory
+in vivo: In the body
+IPF: Idiopathic pulmonary fibrosis. A type of lung disease.
+IU: International units.
+
+JT: Joint.
+
+K: Potassium. An essential electrolyte is frequently monitored regularly in intensive care.
+KCL: Potassium chloride.
+
+LCIS: Lobular Carcinoma In Situ. A type of cancer of the breast. The patient is receiving treatment for Lobular Carcinoma In Situ.
+LBP: Low back pain. LBP is one of most common medical complaints.
+LLQ: Left lower quadrant. Diverticulitis pain is often in the LLQ of the abdomen.
+LUQ: Left upper quadrant. The spleen is located in the LUQ of the abdomen.
+Lytes: Electrolytes (potassium, sodium, carbon dioxide, and chloride).
+
+MCL: Medial collateral ligament.
+mg: Milligrams.
+M/H: Medical history
+ml: Milliliters.
+MVP: Mitral valve prolapse.
+
+N/V: Nausea or vomiting.
+Na: Sodium. An essential electrolyte is frequently monitored regularly in intensive care.
+NCP: Nursing care plan
+NPO: Nothing by mouth. For example, if a patient was about to undergo a surgical operation requiring general anesthesia, they may be required to avoid food or beverage prior to the procedure.
+NSR: Normal sinus rhythm of the heart
+
+O&P: Ova and parasites. Stool O & P is tested in the laboratory to detect parasitic infection in persons with chronic diarrhea.
+O.D.: Right eye.
+O.S.: Left eye.
+O.U.: Both eyes.
+ORIF: Open reduction and internal fixation, such as with the orthopedic repair of a hip fracture.
+
+P: Pulse. Pulse is recorded as part of the physical examination. It is one of the "vital signs."
+p¯: After meals. As intake two tablets after meals.
+p.o.: By mouth. From the Latin terminology per os.
+p.r.n.: As needed. So that it is not always done, but done only when the situation calls for it (for example, taking pain medication only when having pain and not without pain).
+PCL: Posterior cruciate ligament.
+PD: Progressive disease. Patients at risk of developing progressive disease of the kidneys include those with proteinuria or hematuria.
+PERRLA: Pupils equal, round, and reactive to light and accommodation.
+PFT: Pulmonary function test. A test to evaluate how well the lungs are functioning.
+PERRLA: Pupils equal, round, and reactive to light and accommodation.
+Plt: Platelets, one of the blood-forming elements along with the white and red blood cells.
+PMI: Point of the maximum impulse of the heart when felt during the examination, as in beats against the chest.
+PMS: Premenstrual syndrome
+PT: Physical therapy
+PTH: Parathyroid hormone
+PTSD: Post-traumatic stress syndrome
+PUD: Peptic ulcer disease. A type of ulcer of the stomach.
+
+q.d.: Each day. As in taking medicine daily.
+q.i.d.: Four times daily. As in taking a medicine four times daily.
+q2h: Every 2 hours. As in taking a medicine every 2 hours.
+q3h: Every 3 hours. As in taking a medicine every 3 hours.
+qAM: Each morning. As in taking medicine each morning.
+qhs: At each bedtime. As in taking medicine each bedtime.
+qod: Every other day. As in taking medicine every other day.
+qPM: Each evening. As in taking medicine each evening.
+
+RA: Rheumatoid arthritis. A type of joint disease.
+RDS: Respiratory distress syndrome
+R/O: Rule out. Doctors frequently will rule out various possible diagnoses when figuring out the correct diagnosis.
+REB: Rebound, as in rebound tenderness of the abdomen when pushed in and then released.
+RLQ: Right lower quadrant. The appendix is located in the RLQ of the abdomen.
+ROS: Review of systems. An overall review concerns relating to the organ systems, such as the respiratory, cardiovascular, and neurologic systems.
+RUQ: Right upper quadrant. The liver is located in the RUQ of the abdomen.
+
+s/p: Status post. For example, a person who had a knee operation would be s/p a knee operation.
+SAD: Season affective disorder. A type of depression that occurs during the winter months when there is little light.
+SOB: Shortness of breath.
+SQ: Subcutaneous. This is a typical notation when noting or ordering an injection (shot) given into the fatty tissue under the skin, such as with insulin for diabetes mellitus.
+
+T: Temperature. Temperature is recorded as part of the physical examination. It is one of the "vital signs."
+T&A: Tonsillectomy and adenoidectomy
+t.i.d.: Three times daily. As in taking medicine three times daily.
+tab: Tablet
+TAH: Total abdominal hysterectomy
+TAH: Total abdominal hysterectomy. A type of surgery to remove a woman’s uterus, Fallopian tubes, and ovaries.
+THR: Total hip replacement
+TKR: Total knee replacement
+TMJ: Tempomandibular joint
+
+UA or u/a: Urinalysis. A UA is a typical part of a comprehensive physical examination.
+U or u: Unit. Mistaken as the number 0 or 4, causing a 10-fold overdose or greater (for example, 4U seen as "40" or 4u seen as "44"); mistaken as "cc" so the dose is given in volume instead of units (for example, 4u seen as 4cc).
+ULN: Upper limits of normal
+URI: Upper respiratory infection, such as sinusitis or the common cold
+ut dict: As directed. As in taking medicine according to the instructions that the health care professional gave in the office or in the past
+UTI: Urinary tract infection
+
+VSS: Vital signs are stable. This notation means that from the standpoint of the temperature, blood pressure, and pulse, the patient is doing well.
+
+Wt: Weight. Body weight is often recorded as part of the physical examination.
+
+XRT: Radiotherapy (external). A type of treatment that uses radiation.
+
+
+
+More short forms in the documents
+
+dict_of_abb_found_manually_from_doc = {
+    'yo' : 'year',
+    'yr':'year',
+    'y':'year',
+    'y.o.':'year',
+    'y/o':'year old',
+    'Y/O':'year old',
+    'o':'old',
+    'mo': 'month',
+    'mon':'month',
+    'pmh':'past medical history',
+    'm':'male',
+    'm.':'male',
+    'mos': 'months',
+    'mins':'minutes',
+    'PSH':'past surgical history',
+    'psh':'past surgical history',
+    'PShx':'past surgical history',
+    'PSHx':'past surgical history',
+    'FHX':'family history',
+    'fhx':'family history',
+    'FH':'family history',
+    'fh':'family history',
+    'SHX':'social history',
+    'SHx':'social history',
+    'Hx':'history',
+    'hx':'history',
+    'SH':'social history',
+    'sx':'social history',
+    'sh':'social history',
+    'SSHx':'social and substance use history',
+    'ssh':'social and sex history',
+    'MI':'myocardial infarction',
+    'mi':'myocardial infarction',
+    'HPI':'history of present illness',
+    'hpi':'history of present illness',
+    'neg':'negative',
+    'CAGE':'have you ever felt you should cut down in your drinking? Have people Annoyed you by criticizing your drinking? Have you ever felt bad or guilty about your drinking? Have you ever had a drink first thing in the morning to steady your nerves or get rid of a hangover?',
+    'PMHx':'past medical history',
+    'PMH':'past patient history',
+    'pmh':'past medical history',
+    'Resp-':'respiration',
+    'SOB':'shortness of breath',
+    'sob':'shortness of breath',
+    'LoC':'loss of consciousness',
+    'LOC':'loss of consciousness',
+    'loc':'loss of consciousness',
+    'M':'male',
+    'N/V':'nausea and vomiting',
+    'n/v':'nausea and vomitting',
+    'n':'nausea',
+    'v':'vomitting',
+    'd':'diarrhea',
+    'abd':'abdomen',
+    'CC':'chief complaint',
+    'c/o':'complaints of',
+    'C/O':'complaints of',
+    '1-2x/month':'one to two times per month',
+    '1-2/months':'one to two times per month',
+    '3-4/week':'three to four times in a week',
+    '2/3 month':'two to three month',
+    '3-4 mins':'three to four minutes',
+    '2-3':'two to three',
+    '2/3':'two to three',
+    '3-4':'three to four',
+    '7-8':'seven to eight',
+    '4-5':'four to five',
+    '5-6':'five to six',
+    '1-2':'one to two times',
+    '2-6':'two to six',
+    '0/4':'zero out of four',
+    'wk':'week',
+    'pt':'patient',
+    'meds':'medications',
+    'Meds':'medications',
+    'MEDS':'medications',
+    'Soc':'social',
+    'SOC':'social',
+    'aggrav and allev by':'aggravated and alleviated by',
+    'assoc':'associated',
+    'w/':'with',
+    'w':'with',
+    'hosp':'hospitalizations',
+    'GF':'girl friend',
+    'girlfied':'girl friend',
+    'gf':'girl friend',
+    'STD':'sexually transmitted disease',
+    'std':'sexually transmitted disease',
+    'HIV':'human immunodeficiency virus',
+    'Hx':'history',
+    'hx':'history',
+    'h':'history',
+    'sexua':'sexual',
+    'SexH':'sexual history',
+    'sxs':'symptoms',
+    'h/o':'history of',
+    'A/W':'associated with',
+    'Dx':'diagnosis',
+    'neg':'negative',
+    'neg.':'negative',
+    'sx':'symptom',
+    'sxs':'symptoms',
+    'ROS':'review of systems',
+    'ros':'review of systems'
+    'ha':'headache',
+    'LAD':' Lymphadenopathy',
+    'Psurg':'plastic surgery',
+    'surg':'surgery',
+    'punding':'pounding',
+    'nka':'no known allergies',
+    'nkda':'no known drug allergies',
+    'etoh':'alcohol',
+    'cva':'cerebrovascular accident',
+    'htn':'hypertension',
+    'dm':'diabetes mellitus',
+    'bm':'bowel movement',
+    'x':'time',
+    'si':'suicidal ideation',
+    'phq2':'patient health questionnaire 2',
+    '@':'at',
+    'wt':'weight',
+    'mr.':'mister',
+    'tob':'tobacco',
+    'occ':'ocassional',
+    'feq':'frequency',
+    'otc':'over the counter',
+    'd/t':'due to',
+    'ekg':'electrocardiogram',
+    'w/o':'without',
+    'git':'gastrointestinal tract',
+    '-ve':'negative',
+    'utd':'up to date',
+    'mr.':'mister',
+    'ivdu':'intravenous drug use',
+    'hr':'hour',
+    'adhd':'attention deficit/hyperactivity',
+    'ihd':'ischemic heart disease',
+    'thc':'tetrahydrocannabinol',
+    'cp':'chest pain',
+    'im':'intramural',
+    'fam':'family',
+    'cig':'cigarette',
+    'ali':'allergies',
+    'stds':'sexually transmitted disease',
+    'ocp':'oral contraceptive pill',
+    'sti':'sexually transmitted infection ',
+    'mont':'month',
+    'mh':'mental health',
+    'adalar':'Adderall',
+    'wk':''week,
+    'allx':'allergies'
+}
+
+
+list_of_abb = {
+    'aa':'Of each, equal parts',
+    'ABR':'Absolute bed rest',
+    'Abd.':'Abdomen',
+    'ac':'Before meals',
+    'AD':'Admitting diagnosis',
+    'A&D':'Admission and discharge',
+    'Ad lib':'As desired, if the patient so desired',
+    'ADL':'Activities of daily living',
+    'Adm.':'Admission',
+    'Ad.Spec.':'Admission urine specimen',
+    'A.M.':'Morning',
+    'a.m.':'morning',
+    'AM':'morning',
+    'am':'morning',
+    'amb':'Ambulation, walking, ambulatory,able to walk',
+    'amt.':'Amount',
+    'AP':'Appendectomy',
+    'A.P.':'Appendectomy'
+    'aqua':'Water or H2O',
+    '@':'At',
+    'Approx.':'Approximately',
+    'B&B':'Bowel and bladder training',
+    'b&b':'Bowel and bladder training',
+    'bid':'Twice a day',
+    'B.I.D':'Twice a day',
+    'b.i.d.':'Twice a day',
+    'b.m':'Bowel movement',
+    'B.M.':'Bowel movement,feces',
+    'B.P.':	'Blood pressure',
+    'BP':'Blood pressure',
+    'BR':'Bedrest',
+    'br':'bedrest',
+    'B.R.':'bedrest',
+    'b.r.':'bedrest',
+    'BRP':'Bathroom privileges',
+    'B.R.P.':'Bathroom privileges',
+    'brp':'Bathroom privileges',
+    'BSC':'Bedside commode',
+    'bsc':'Bedside commode',
+    '°C':'Celsius degree (or centigrade)',
+    'c':'With',
+    'Ca':'Cancer',
+    'Cath.':'Catheter',
+    'CBC':'Complete blood count',
+    'C.B.C.':'Complete blood count',
+    'cc':'cubic centimeter',
+    'c.c':'cubic centimeter',
+    'CCU':'Cardiac care unit/ coronary care unit',
+    'C.C.U':'Cardiac care unit/ coronary care unit',
+    'CBR':'Complete bed rest',
+    'C.B.R.':'Complete bed rest',
+    'cbr':'Complete bed rest',
+    'C/O':'Complaint of',
+    'c/o':'Complaint of',
+    'CO2':'Carbon dioxide',
+    'CS':'Central Supply',
+    'C.S.':'Central supply',
+    'c.s':'Central supply',
+    'CSD':'Central service department',
+    'csd':'Central service department',
+    'C.S.D.':'Central service department',
+    'CSR':'Central Supply Room',
+    'csr':'Central Supply Room',
+    'C.S.R':'Central supply room',
+    'CVA':'Cerebrovascular accident',
+    'C.V.A':'Cerebrovascular accident',
+    'CPR':'Cardiopulmonary resuscitation',
+    'C.P.R':'Cardiopulmonary resuscitation',
+    'dc':'Discontinue',
+    'd/c':'Discontinue',
+    'del. M.':'Delivery room',
+    'd.r.':'Delivery room',
+    'DR':'Delivery room',
+    'Disch':'Discharge',
+    'dish':'Discharge',
+    'D/C':'Discharge',
+    'D. % C.':'Dilatation and curettage',
+    'D&C':'Dilatation and curettage',
+    'drsg.':'dressing',
+    'DOA':'Dead on arrival',
+    'D.O.A':'Dead on arrival',
+    'Dr.':'Doctor',
+    'Dr':'Doctor',
+    'DX':'Diagnosis',
+    'ECG':'Electrocardiogram',
+    'EKG':'Electrocardiogram',
+    'ED':'Emergency department',
+    'E.D.':'Emergency department',
+    'EEG':'Electroencephalogram',
+    'E.E.G':'Electroencephalogram',
+    'EENT':'Eye,ears,nose and throat',
+    'E.E.N.T':'Eye,ears,nose and throat',
+    'E.':'Enema',
+    'E':'Enema',
+    'ER':'Emergency room',
+    'E.R.':'Emergency room',
+    '°F':'Fahrenheit degree',
+    'F.':'Female',
+    'Fe.':'Female',
+    'F':'Female',
+    'Fe':'Female',
+    'FBS':'Fasting blood sugar',
+    'F.B.S':'fasting blood sugar',
+    'FF':'Forced feeding',
+    'F.F.':'Forced feeding',
+    'ft':'Foot',
+    'Fx':'Fracture',
+    'Fx urine':'Fractional urine',
+    'ft':'Foot',
+    'gal':'Gallon',
+    'GI':'Gastrointestinal'
+    'G.I.':'Gastrointestinal',
+    'gt':'One drop',
+    'gtt':'two or more drops',
+    'G.T.T.':'two or more drops',
+    'GU':'Genitourinary',
+    'G.U':'Genitourinary',
+    'Gyn.':'Gynecology',
+    'G.Y.N.':'Gynecology',
+    'H2O':'water',
+    'HOB':'Head of bed',
+    'hr':'hour',
+    'HS':'hour of sleep',
+    'hs':'hour of sleep',
+    'ht':'Height',
+    'hyper':'Above or high',
+    'hypo':'below or low',
+    'H.W.B.':hwb or HWB	'Hot water bottle',
+    'hwb':'hot water bottle',
+    'HWB':'hot watter bottle',
+    'ICU':'Intensive care unit',
+    'I.C.U.':'Intensive care unit',
+    'I&O': 'Intake and output',
+    'I.&O.':'Intake and output',
+    'Irr':'Irregular',
+    'Isol.':'Isolation',
+    'isol':'Isolation',
+    'IV':'Intravenous',
+    'I.V.':'Intravenous',
+    'L':'Liter',
+    'Lab.':'Laboratory',
+    'lab':'Laboratory',
+    'lb':'Pound',
+    'LVN':'Licensed vocational nurse',
+    'L.V.N':'Licensed vocational nurse',
+    'M':'Male',
+    'Mat':'Maternity',
+    'MD':'Medical doctor',
+    'M.D.':'Medical doctor',
+    'Meas':'Measure',
+    'mec':'Meconium',
+    'med':'Medicine',
+    'min':'Minute',
+    'ml':'Millilitre',
+    'Mn':'Midnight',
+    'mn':'Midnight',
+    'M/n':'Midnight',
+    'N.A':'Nursing aide or nursing assistant',
+    'N/A':'Nursing aide or nursing assistant',
+    'n/g tube': N.G.T.'Nasogastric tube',
+    'ng.tube':'Nasogastric tube',
+    'N.G.T.':'Nasogastric tube',
+    'noct':'At night',
+    'NP':'Neuropsychiatric',
+    'NPO':'Nothing by mouth',
+    'N.P.O':'Nothing by mouth',
+    'nsy':'Nursery',
+    'O2':'Oxygen',
+    'OB':'Obstetrics',
+    'O.B.':'Obstetrics',
+    'Obt':'Obtained',
+    'obt.':'Obtained',
+    'OJ':'Orange juice',
+    'O.J.':'Orange juice',
+    'Orb.':'Orderly',
+    'OOB':'Out of bed',
+    'O.O.B':'Out of bed',
+    'OPD':'Outpatient department',
+    'O.P.D':'Outpatient department',
+    'OR':'Operating room',
+    'O.R.':'Operating room',
+    'Ortho':'Orthopedics',
+    'OT':'Occupational therapy',
+    'O.T':'Occupational therapy',
+    'oz.':'Ounce',
+    'PAR':'Postanesthesia room',
+    'Pc':'After meals',
+    'Ped':'Pediatrics',
+    'Peds':'Pediatrics',
+    'Per':'by,through',
+    'p.m.':'Afternoon',
+    'P.M.':'Afternoon',
+    'pm':'Afternoon',
+    'PM':'Afternoon',
+    'PMC':'Post Mortem care',
+    'P.M.C':'Post Mortem Care',
+    'PN':'Pneumonia',
+    'P.N.':'Pneumonia',
+    'po':'By mouth',
+    'post':'after',
+    'p':'after',
+    'postop':'Postoperative',
+    'post op':'Postoperative',
+    'post op spec':'After surgery urine specimen',
+    'PP':'Postpartum(after delivery)',
+    'PPBS':'Postprandial blood sugar',
+    'pre':'Before',
+    'prn':'Whenever necessary, when required',
+    'p.r.n.':'Whenever necessary, when required',
+    'preop':'before surgery',
+    'pre op':'before surgery',
+    'pre op spec':'Urine specimen before surgery',
+    'prep':'Prepare the patient for surgery by shaving the skin',
+    'Pt':'Patient',
+    'pt':'pint',
+    'PT':'Physical therapy',
+    'P.T.':'Physical therapy',
+    'q':'every',
+    'qd':'every day',
+    'qh':'every hour',
+    'q2h':'every 2 hours',
+    'q3h':'every 3 hours',
+    'q4h':'every 4 hours',
+    'QHS':'every night at bed time/hour of sleep',
+    'qhs':'every night at bed time/hour of sleep',
+    'qid':'four times a day',
+    'Q.I.D.':'four times a day',
+    'qam':'every morning',
+    'q am':'every morning',
+    'q.a.m.':'every morning',
+    'qod':'Every other day',
+    'Q.O.D':'Every other day',
+    'qs':'quantity sufficient, as much as required',
+    'qt':'quart',
+    'r':'rectal',
+    'R':'Rectal',
+    'Rm':'Room',
+    'rm':'room',
+    'RN':'Registered nurse',
+    'R.N.':'Registered nurse',
+    'Rom':'Range of motion',
+    'R.O.M.':'Range of motion',
+    'RR':'Recovery room',
+    'R Rm.':'Recovery room',
+    'Rx':'Prescription or treatment ordered by a physician',
+    's or ?':'Without',
+    'S&A':'Sugar and acetone',
+    'S&A test':'Sugar and acetone test',
+    'S.& A. test':'Sugar and acetone test',
+    'S&K':'Sugar and ketone test',
+    'S.& K. test':'Sugar and ketone test',
+    'SOB':'Shortness of breath',
+    'sos':'Whenever emergency arises; only if necessary',
+    'SPD':'Special purchasing department',
+    'Spec':'Specimen',
+    'spec.':'Specimen',
+    'ss':'One-half',
+    '??':'One-half',
+    'SSE':'Soapsuds enema',
+    'S.S.E.':'Soapsuds enema',
+    'Stat':'At once, immediately',
+    'STD':'Sexually transmitted disease',
+    'Surg':'Surgery',
+    'tid':'Three times a day',
+    'T.I.D.':'Three times a day',
+    'TLC':'Tender loving care',
+    'tlc':'tender loving care',
+    'TPR':'Temperature,pulse,respiration',
+    'TWE':'Tap water enema',
+    'U/a':'Urinalysis',
+    'U/A':'Urinalysis',
+    'u/a':'Urinalysis',
+    'Ung.':'Ointment,unguentine',
+    'VDRL':'Test for syphilis',
+    'V.S':'Vital signs',
+    'VS':'Vital signs',
+    'WBC':'White blood count',
+    'W.B.C.':'White blood count',
+    'w/c':'Wheel chair',
+    'wc':'Ward clerk',
+    'W.C.':'Ward clerk',
+    'wt':'Weight',
+
+    'A/G':'albumin/globulin ratio',
+    'AAL':'anterior Axillary Line',
+    'ABG':'arterial blood gases',
+    'AC':'before eating',
+    'ACE':'angiotensin converting enzyme',
+    'ACL':'Anterior Cruciate Ligament',
+    'ACLS':'Advanced cardiac life support',
+    'ACTH':'adrenocorticotropic hormone',
+    'ADH':'antidiuretic hormone',
+    'ADL':'activities of daily living',
+    'ADSF':'Anterior Decomposition Spinal Fusion',
+    'AFB':'acid-fast bacilli',
+    'AFP':'alpha-fetoprotein',
+    'AGA':'appropriate for gestational age',
+    'AGN':'Acute Glomerulonephritis',
+    'AI':'aortic insufficiency',
+    'AIDS':'acquired immune deficiency syndrome',
+    'AKA':'above knee Amputation',
+    'ALD':'alcoholic liver disease',
+    'ALL':'acute lymphocytic leukemia',
+    'ALP':'alkaline phosphatase',
+    'ALT':'alanine transaminase, alanine aminotransferase',
+    'APR':'Abdominoperineal Resection',
+    'ARF':'Acute Renal Failure',
+    'ASA':'Acute Surgical abdomen',
+    'ATN':'acute tubular necrosis',
+    'AU':'both ears',
+    'AV':'atrioventricular',
+    'ad lib':'as much as needed',
+    'B.S.':'Bachelor of Science',
+    'B/K':'below knee',
+    'BAT':'Blunt Abdominal Trauma',
+    'BIH':'Bilateral Inguinal Hernia',
+    'BKA':'Below knee Amputation',
+    'BM':'bowel movement or breast milk',
+    'BX':'biopsy',
+    'c':'with',
+    'C/O':'complaining of',
+    'CA':'calcium,cancer,carcinoma',
+    'CAA':'crystalline amino acids',
+    'CARB':'coronary artery disease',
+    'CAD':'coronary artery disease',
+    'CAPD':'continuous ambulatory peritoneal dialysis',
+    'CAT':'computerized axial tomography',
+    'CA':'Cancer',
+    'CBC':'complete blood count',
+    'CBD':'common bile duct',
+    'CBDE':'common bile duct exploration',
+    'CBG':'capillary blood gas',
+    'CBI':'continuous bladder irrigation',
+    'CBS':'capillary blood sugar',
+    'CC':'chief complaint',
+    'CCK':'cholecystokinin',
+    'CCPD':'continuous cyclic peritoneal dialysis',
+    'CCU':'clean catch urine or cardiac care unit',
+    'CCV':'critical closing volume',
+    'CF':'cystic fibrosis',
+    'CHF':'congestive heart failure',
+    'CHO':'carbohydrate',
+    'CI':'cardiac index',
+    'CKD':'Chronic Kidney Disease',
+    'CLEA':'Continuous lumbar Epidural Anesthesia',
+    'CLT':'Clinical Laboratory Technician',
+    'CML':'chronic myelogenous leukemia',
+    'CN':'cranial nerves',
+    'CNS':'central nervous system',
+    'CO':'cardiac output',
+    'COM':'Chronic Otitis Media',
+    'COPD':'chronic obstructive pulmonary disease',
+    'CP':'chest pain,cleft palate',
+    'CPD':'cephalo-pelvic disproportion',
+    'CPK':'creatinine phosphokinase',
+    'CPP':'cerebral perfusion pressure',
+    'CPR':'cardiopulmonary resuscitation',
+    'CRCL':'creatinine clearance',
+    'CRF':'chronic renal failure',
+    'CRT':'capillary refill time',
+    'CSF':'cerebrospinal fluid',
+    'CT':'computerized toography',
+    'CVA':'cerebral vascular accident, costovertebral angle',
+    'CVP':'central venos pressure',
+    'D3':'Distal Third',
+    'D5W':'5% dextrose in water',
+    'DAT':'diet as tolerated',
+    'DC':'discontinue',
+    'DIC':'disseminated intravascular coagulopathy',
+    'DIH':'Direct Inguinal Hernia',
+    'DKA':'diabetic ketoacidosis',
+    'DL':'Direct Laryngoscopy',
+    'DM':'diabetes ketoacidosis',
+    'DNA':'deoxyribonucleic acid',
+    'DNR':'do not resuscitate',
+    'DOA':'dead on arrival',
+    'DOE':'dyspnea on exertion',
+    'DPT':'diphtheria, pertussis, tetanus',
+    'DTR':'deep tendon reflexes',
+    'DVT':'deep venous thrombosis',
+    'DX':'diagnosis',
+    'EAA':'essential amino acid',
+    'EBL':'estimated blood loss',
+    'EBV':'Epstein barr virus',
+    'ECCE':'Extra Capsular Cataract Extraction',
+    'ECF':'extracellular fluid, extended care facility',
+    'ECG':'electrocardiogram',
+    'ECT':'electroconvulsive therapy',
+    'EDC':'Extensor Digitorum Communis',
+    'EDH':'Epidural Hematoma',
+    'EEA':'end to end anastomosis',
+    'EEL':'Emergency Exploratory Laparotomy',
+    'EENT':'eye,ear,nose and throat',
+    'EFAD':'essential fatty acid deficiency',
+    'EGD':'Esophagogastroduodenoscopy',
+    'EMG':'electromyogram',
+    'EMV':'eyes,motor,verbal response(Glasgow coma scale)',
+    'ENT':'ears,nose and throat',
+    'EOM':'extraocular muscles',
+    'ERCP':'Endoscopic Retrograde Cholangiopancreatography',
+    'ESR':'erythrocyte sedimentation rate',
+    'ESRD':'end stage renal disease',
+    'ET':'endotracheal tube',
+    'ETT':'endotracheal tube',
+    'EUA':'examination under anesthesia',
+    'FBE':'Foreign Body extraction',
+    'FBS':'fsting blood sugar',
+    'FCU':'Flexor Carpi Ulnaris',
+    'FDA':'Food, Drug Administration',
+    'FDP':'Flexor Digitorum Profundus',
+    'FDS':'Flexor Digitorum Superficial',
+    'FESS':'Functional Endoscopic Sinus Surgery',
+    'FEV':'forced expiratory volume',
+    'FFP':'fresh frozen plasma',
+    'FIA':'Fistula in Ano',
+    'FNP':'Family Nurse Practitioner',
+    'FTSG':'Full Thickness Skin Grafting',
+    'GB':'gallbladder',
+    'GC':'gonorrhea',
+    'GCS':'Glascow Coma Scale',
+    'GERD':'gastroesophageal reflux disease',
+    'GETA':'General Endotracheal Anesthesia',
+    'GFR':'glomerular filtration rate',
+    'GI':'gastrointestinal',
+    'GSW':'Gunshot Wound',
+    'GTT':'glucose tolerance test',
+    'GU':'genitourinary',
+    'HB':'hemoglobin',
+    'HBP':'high blood pressure',
+    'HCG':'human chorionic gonadotropin',
+    'HCO3':'bicarbonate',
+    'HCT':'hematocrit',
+    'HD':'hemodialysis',
+    'HDL':'high density lipoportein',
+    'HEENT':'head,eyes,ears,nose,throat',
+    'HPT':'Hemoperitoneum',
+    'I & d':'Incision & Drainage',
+    'IBG':'Iliac Bone Graft',
+    'ICS':'Intercostal Space',
+    'IIH':'Indirect Inguinal Hernia',
+    'IJ':'Intrajugular',
+    'IOC':'Intraoperative Cholangiogram'
+}
